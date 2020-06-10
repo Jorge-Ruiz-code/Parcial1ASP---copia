@@ -35,7 +35,9 @@
                     <td style="width: 150px" id="lblPromedio">
                         <asp:Label ID="lblPromedio" runat="server"></asp:Label>
                     </td>
-                    <td>&nbsp;</td>
+                    <td>
+                        <asp:Button ID="Button1" runat="server" Text="Button" />
+                    </td>
                 </tr>
             </table>
         </div>
