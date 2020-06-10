@@ -1,0 +1,16 @@
+01
+Guatemala
+02
+Quetzaltenango
+03
+Retalhuleu
+04
+Chiquimula
+05
+Progreso
+06
+Sacatepequez
+07
+Santa Rosa
+08
+Solola
